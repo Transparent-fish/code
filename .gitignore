@@ -1,0 +1,14 @@
+!*/
+
+!*/.vscode
+
+!*.cpp
+!*.h
+!*.py
+!*.c
+!*.gitignore
+
+*.exe
+*.md
+
+mqcct/
