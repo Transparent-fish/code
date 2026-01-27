@@ -1,3 +1,6 @@
 *.exe
-*/mqcct
+*/ct
+*/jqy
 *.md
+*.in
+*.out
