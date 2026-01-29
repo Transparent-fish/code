@@ -1,0 +1,361 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is_u",
+				"is_use_P"
+			],
+			[
+				"is",
+				"is_use_P"
+			],
+			[
+				"use_",
+				"use_J_y"
+			],
+			[
+				"c",
+				"card"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"merge \\",
+				"Sublime Merge: File History"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: List Packages",
+				"Package Control: List Packages"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"clang format",
+				"Clang Format: Format Selection"
+			],
+			[
+				"codefoe",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"CodeFormatter",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 202.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/S/code/mqc/homework/Day1/18233.cpp",
+		"/S/code/mqc/homework/Day1/18232.cpp",
+		"/S/code-home/.vscode/tasks.json",
+		"/S/code-home/.vscode/launch.json",
+		"/S/code-home/luogu/problem/zgs.cpp",
+		"/S/code/mqc/contest/0127/A.cpp",
+		"/S/code/mqc/contest/0127/B.cpp",
+		"/C/Users/admin/OI-Start/README.md",
+		"/S/sublime_text_build_4200_x64/Data/Packages/User/Default Source.sublime-snippet",
+		"/R/OI-Start/OI-Start.cpp",
+		"/C/Users/admin/Documents/1.cpp",
+		"/C/Users/admin/Downloads/untitled1.cpp",
+		"/S/code/mqc/contest/0127/C.cpp",
+		"/S/code/mqc/contest/0127/D.cpp",
+		"/S/code/.gitignore",
+		"/C/Users/admin/Downloads/data12.out",
+		"/C/Users/admin/Downloads/data12.in",
+		"/C/Users/admin/Downloads/data04.out",
+		"/C/Users/admin/Downloads/data03.out",
+		"/C/Users/admin/Downloads/data04.in",
+		"/C/Users/admin/Downloads/data03.in",
+		"/S/code/mqc/homework/Day1/18227.cpp",
+		"/S/code/mqc/homework/Day1/18229.cpp",
+		"/S/code/mqc/homework/Day1/P3388.cpp",
+		"/S/code/mqc/homework/Day1/P8435.cpp",
+		"/S/code/mqc/homework/Day1/18228.cpp",
+		"/R/code/luogu/problem/zgs.cpp",
+		"/R/code/Contest/ATCoder/ABC 442/E.cpp",
+		"/R/code/Contest/ATCoder/ABC 442/D.cpp",
+		"/S/code/luogu/pr/P2740.cpp",
+		"/S/code/luogu/zgs.cpp",
+		"/S/code/std.cpp",
+		"/S/code/mqc/contest/0110/C_18225.cpp",
+		"/S/code/mqc/contest/0110/A_18223.cpp",
+		"/S/code/mqc/contest/0110/B_18224.cpp",
+		"/S/code/mqc/contest/0110/D_18226.cpp",
+		"/C/Users/admin/Documents/std.cpp",
+		"/C/Users/admin/Documents/zgs.cpp",
+		"/S/code/luogu/std.cpp",
+		"/S/code/luogu/pr/P2482.cpp",
+		"/S/code/mqc/homework/0108/P10668.cpp",
+		"/S/code/mqc/homework/0108/18217.cpp",
+		"/S/dyl/P2482_1.out",
+		"/S/dyl/P2482_1.in",
+		"/S/code/mqc/homework/0108/18213.cpp",
+		"/S/code/mqc/homework/0108/A.cpp",
+		"/S/code/mqc/contest/0107/A.cpp",
+		"/S/code/mqc/contest/0107/B.cpp",
+		"/S/code/mqc/contest/0106/A.cpp",
+		"/S/code/ct/1上语法/2/2_std.cpp",
+		"/S/code/ct/1上语法/2/mark.cpp",
+		"/S/code/mtj/0104/A.cpp",
+		"/S/code/mtj/0104/B.cpp",
+		"/S/code/mtj/0104/C.cpp",
+		"/S/code/mtj/0104/A.py",
+		"/S/code/mqc/contest/0104/B.cpp",
+		"/S/code/mqc/contest/0104/C.cpp",
+		"/S/code/mqc/contest/0104/A.cpp",
+		"/S/code/mqc/contest/1230/D.cpp",
+		"/S/code/mqc/contest/1230/A.cpp",
+		"/S/code/mqc/contest/1230/B.cpp",
+		"/S/code/mqc/contest/1230/C.cpp",
+		"/C/Users/admin/Downloads/OI-Start.cpp",
+		"/C/Users/admin/AppData/Local/Temp/Temp1_OI-Start.zip/OI-Start.cpp",
+		"/S/code/mtj/1228/B.cpp",
+		"/S/code/mtj/1228/C.cpp",
+		"/S/code/ct/1上语法/3/3.cpp",
+		"/S/code/mtj/1228/A.cpp",
+		"/S/code/mqc/pr/P11838.cpp",
+		"/S/code/mqc/pr/P8306.cpp",
+		"/S/code/mqc/pr/P10471.cpp",
+		"/S/code/ct/1上语法/4/2.cpp",
+		"/S/code/ct/1上语法/4/mark.cpp",
+		"/S/code/mqc/pr/P4551.cpp",
+		"/S/code/mqc/pr/P3080.cpp",
+		"/S/code/mqc/pr/P3205.cpp",
+		"/S/code/mqc/pr/c.js",
+		"/S/code/mqc/pr/P1880.cpp",
+		"/S/code/mqc/pr/P1063.cpp",
+		"/S/code/ct/1上语法/1/std.cpp",
+		"/S/code/ct/1上语法/1/mark.cpp",
+		"/S/code/mqc/contest/1223/P5836.cpp",
+		"/S/code/mqc/contest/1223/P8775.cpp",
+		"/S/code/ct/1上语法/1/tm.md",
+		"/S/code/mqc/contest/1220/E.cpp",
+		"/S/code/ct/1上语法/3/mark.cpp",
+		"/S/code/mqc/contest/1220/C.cpp",
+		"/C/Users/admin/Downloads/data (1)/1.in",
+		"/C/Users/admin/Downloads/data (1)/100.out",
+		"/C/Users/admin/Downloads/data (1)/100.in",
+		"/S/code/mqc/contest/1220/D.cpp",
+		"/S/code/mqc/contest/1220/A.cpp",
+		"/S/code/mqc/contest/1220/B.cpp",
+		"/S/code/ct/2下入门/4.cpp",
+		"/S/code/ct/2下入门/mark.cpp",
+		"/C/Users/admin/Downloads/data (2)/100.in",
+		"/C/Users/admin/Downloads/data (2)/99.out",
+		"/C/Users/admin/Downloads/data (2)/2.in",
+		"/C/Users/admin/Downloads/data (2)/1.out",
+		"/C/Users/admin/Downloads/data (2)/1.in",
+		"/S/code/luogu/18191.cpp",
+		"/S/code/luogu/通天之分组背包.cpp",
+		"/S/code/ct/2/mark.cpp",
+		"/S/code/ct/2/2_std.cpp",
+		"/C/Users/admin/Downloads/data (1)/13.in",
+		"/S/code/luogu/P5322.cpp",
+		"/S/code/ct/3/3.cpp",
+		"/S/code/ct/3/mark.cpp",
+		"/C/Users/admin/Downloads/data/1.in",
+		"/S/code/ct/3/3.cp",
+		"/S/code/luogu/P2967.cpp",
+		"/S/code/ct/4/2.cpp",
+		"/C/Users/admin/AppData/Local/Temp/BNZ.6943a647434f1a1/1.out",
+		"/C/Users/admin/AppData/Local/Temp/BNZ.6943a644434e4c0/1.in",
+		"/C/Users/admin/AppData/Local/Temp/BNZ.6943a603433e4c5/1.in",
+		"/C/Users/admin/Downloads/data/39.in",
+		"/C/Users/admin/Downloads/data/38.out",
+		"/C/Users/admin/Downloads/data/39.out",
+		"/C/Users/admin/Downloads/data/41.in",
+		"/S/code/luogu/P2967   [USACO09DEC] Video Game Troubles G.cpp",
+		"/S/code/ct/2/2_gen.cpp",
+		"/S/code/ct/2_gen.cpp",
+		"/S/code/ct/2_std.cpp",
+		"/S/code/mqc/contest/1216/E.cpp",
+		"/S/code/mqc/contest/1216/F.cpp",
+		"/S/code/mqc/contest/1216/C.cpp",
+		"/S/code/mqc/contest/1216/B.cpp",
+		"/S/code/mqc/contest/1216/A.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 155.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "‎.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
