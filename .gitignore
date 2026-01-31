@@ -1,14 +1,14 @@
-!*/
+*
 
-!*/.vscode
+!*/
 
 !*.cpp
 !*.h
 !*.py
 !*.c
 !*.gitignore
+!.vscode/
 
 *.exe
-*.md
-
-mqcct/
+*.o
+*.out
