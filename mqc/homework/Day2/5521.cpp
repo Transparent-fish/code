@@ -1,10 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define int long long
-int n;
+int a, b;
 
 signed main() {
-  cin>>n;
-  
+  cout << "Hello World!";
   return 0;
 }
