@@ -1,5 +1,14 @@
+*
+
+!*/
+
+!*.cpp
+!*.h
+!*.py
+!*.c
+!*.gitignore
+!.vscode/
+
 *.exe
-*/jqy
-*.md
-*.in
+*.o
 *.out
