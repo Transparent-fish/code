@@ -2,7 +2,7 @@ name: OI Code Auto Sync
 
 on:
   push:
-    branches: [ main, master ] # 兼容不同的主分支名
+    branches: [ main, master, home ] # 兼容不同的主分支名
 
 jobs:
   check-and-sync:
