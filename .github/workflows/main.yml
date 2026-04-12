@@ -1,0 +1,23 @@
+name: OI Code Auto Sync
+
+on:
+  push:
+    branches: [ main, master ] # 兼容不同的主分支名
+
+jobs:
+  check-and-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+      # 同步到服务器的 Alist 数据目录
+      - name: Sync to Alist
+        uses: appleboy/scp-action@master
+        with:
+          host: ${{ secrets.SERVER_HOST }}
+          username: ${{ secrets.SERVER_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          source: "."
+          # 确保服务器上有这个目录，或者改成你喜欢的路径
+          target: "/root/alist_data/my-code"
+          strip_components: 0

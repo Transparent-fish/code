@@ -8,6 +8,8 @@
 !*.c
 !*.gitignore
 !.vscode/
+!.github/
+!.github/**
 
 *.exe
 *.o

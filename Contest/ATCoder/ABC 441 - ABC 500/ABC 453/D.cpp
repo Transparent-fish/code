@@ -41,7 +41,7 @@ void bfs(int sx, int sy, int ex, int ey) {
                 ans += noow.op;
                 nx = noow.x, ny = noow.y, nf = noow.f;
             }
-            reverse(ans.begin(), ans.end());
+            reverse (ans.begin(), ans.end());
             cout << ans << "\n";
             return;
         }
