@@ -5,7 +5,7 @@ int n, vis;
 string s;
 
 signed main() {
-    cin >> n >> s;
+    cin >> n >> s;//test
     for (auto i : s) {
         if (vis == 0 && i == 'o')continue;
         else {
