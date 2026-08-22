@@ -1,0 +1,83 @@
+time: 2000ms
+memory: 256m
+subtasks:
+  - score: 5
+    cases:
+      - input: clean1.in
+        output: clean1.out
+  - score: 5
+    cases:
+      - input: clean2.in
+        output: clean2.out
+  - score: 5
+    cases:
+      - input: clean3.in
+        output: clean3.out
+  - score: 5
+    cases:
+      - input: clean4.in
+        output: clean4.out
+  - score: 5
+    cases:
+      - input: clean5.in
+        output: clean5.out
+  - score: 5
+    cases:
+      - input: clean6.in
+        output: clean6.out
+  - score: 5
+    cases:
+      - input: clean7.in
+        output: clean7.out
+  - score: 5
+    cases:
+      - input: clean8.in
+        output: clean8.out
+  - score: 5
+    cases:
+      - input: clean9.in
+        output: clean9.out
+  - score: 5
+    cases:
+      - input: clean10.in
+        output: clean10.out
+  - score: 5
+    cases:
+      - input: clean11.in
+        output: clean11.out
+  - score: 5
+    cases:
+      - input: clean12.in
+        output: clean12.out
+  - score: 5
+    cases:
+      - input: clean13.in
+        output: clean13.out
+  - score: 5
+    cases:
+      - input: clean14.in
+        output: clean14.out
+  - score: 5
+    cases:
+      - input: clean15.in
+        output: clean15.out
+  - score: 5
+    cases:
+      - input: clean16.in
+        output: clean16.out
+  - score: 5
+    cases:
+      - input: clean17.in
+        output: clean17.out
+  - score: 5
+    cases:
+      - input: clean18.in
+        output: clean18.out
+  - score: 5
+    cases:
+      - input: clean19.in
+        output: clean19.out
+  - score: 5
+    cases:
+      - input: clean20.in
+        output: clean20.out

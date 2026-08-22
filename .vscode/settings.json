@@ -1,0 +1,33 @@
+{
+    "glassit.alpha": 220,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 24,
+    "workbench.colorTheme": "Dark Modern",
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "C_Cpp.formatting": "vcFormat",
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "cph-ng.languages.cppCompiler": "D:\\mingw64\\bin\\g++.EXE",
+    "cph-ng.languages.cppCompilerArgs": "-O2 -std=c++14 -Wall -DCPH",
+    "cph-ng.sidebar.showOobe": false,
+    "editor.fontFamily": "jetbrains mono",
+    "editor.mouseWheelZoom": true,
+    "editor.fontLigatures": true,
+    "hydro.server.domain": "SESOJ006",
+    "hydro.server.server": "oj.sesedu.cn",
+    "background.enabled": true,
+    "background.fullscreen": {
+    "images": [
+      // "D:/img/default.png"
+      "D:/img/5.webp"
+    ],
+    "opacity": 0.5,
+    "size": "cover",
+    "position": "center"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  }
+}

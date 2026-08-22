@@ -1,0 +1,1 @@
+{"name":"Local: luogu-P4053","url":"d:\\code\\homework\\0806\\luogu-P4053.cpp","tests":[{"id":1785975462838,"input":"4\n100 200\n200 1300\n1000 1250\n2000 3200","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\homework\\0806\\luogu-P4053.cpp","group":"local","local":true}
